@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: eduautoml
+Version: 0.1
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: typer
+Requires-Dist: gradio
+Dynamic: requires-dist

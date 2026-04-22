@@ -1,0 +1,13 @@
+README.md
+setup.py
+eduautoml/__init__.py
+eduautoml/evaluation.py
+eduautoml/model_selection.py
+eduautoml/preprocessing.py
+eduautoml/utils.py
+eduautoml.egg-info/PKG-INFO
+eduautoml.egg-info/SOURCES.txt
+eduautoml.egg-info/dependency_links.txt
+eduautoml.egg-info/entry_points.txt
+eduautoml.egg-info/requires.txt
+eduautoml.egg-info/top_level.txt

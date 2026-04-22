@@ -1,0 +1,2 @@
+[console_scripts]
+eduautoml = CLI.cli:run
